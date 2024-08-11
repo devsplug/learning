@@ -1,3 +1,4 @@
+import Home from "@/components/layout/home";
 export default function Page() {
-  return <p>welcome to learning </p>;
+  return <Home />;
 }
